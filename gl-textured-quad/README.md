@@ -1,5 +1,7 @@
 # OpenGL Textured Quad
 
+![screenshot](screenshot.png)
+
 This example demonstrates the basics of SDL and OpenGL usage with HashLink:
 
 - Window creation
