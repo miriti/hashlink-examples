@@ -1,0 +1,4 @@
+-main Main
+-lib hlopenal
+-lib format
+--hl hlboot.dat
