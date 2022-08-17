@@ -32,7 +32,7 @@ final WINDOW_HEIGHT = 600;
 function main() {
 	Sdl.init();
 
-	final window = new Window('Haxe 0.0.1', WINDOW_WIDTH, WINDOW_HEIGHT);
+	final window = new Window('HashLink SDL', WINDOW_WIDTH, WINDOW_HEIGHT);
 	window.vsync = true;
 
 	if (!GL.init()) {
